@@ -8,9 +8,7 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3.0-orange)](https://scikit-learn.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-------------------------------------------------------------------------
-
-## 📋 Project Overview
+##  Project Overview
 
 Hospital readmissions within 30 days of discharge are a critical
 healthcare quality metric, costing the US healthcare system billions
